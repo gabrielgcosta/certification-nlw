@@ -1,4 +1,4 @@
-package com.gabrielcosta.certification_nlw.modules.students.dto.useCases;
+package com.gabrielcosta.certification_nlw.modules.students.useCases;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
